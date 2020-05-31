@@ -1,0 +1,55 @@
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\bin\Debug\upgradesys.exe
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\bin\Debug\upgradesys.pdb
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\upgradesys.Form1.resources
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\upgradesys.Properties.Resources.resources
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\upgradesys.exe
+C:\Users\dsmsfans\AppData\Local\Temporary Projects\upgradesys\obj\x86\Debug\upgradesys.pdb
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.exe
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.pdb
+E:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.exe
+E:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.pdb
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form1.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Properties.Resources.resources
+E:\C#\upgradesys\upgradesys\bin\Debug\Interop.WMPLib.dll
+E:\C#\upgradesys\upgradesys\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\Interop.WMPLib.dll
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csproj.ResolveComReference.cache
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csprojResolveAssemblyReference.cache
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csproj.GenerateResource.Cache
+E:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.exe.config
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form2.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form3.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form4.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form7.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form8.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form9.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form5.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form6.resources
+E:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form10.resources
+G:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.exe.config
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\Interop.WMPLib.dll
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csproj.ResolveComReference.cache
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.exe
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.pdb
+G:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.exe
+G:\C#\upgradesys\upgradesys\bin\Debug\upgradesys.pdb
+G:\C#\upgradesys\upgradesys\bin\Debug\Interop.WMPLib.dll
+G:\C#\upgradesys\upgradesys\bin\Debug\AxInterop.WMPLib.dll
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csprojResolveAssemblyReference.cache
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form1.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form10.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form2.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form3.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form4.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form5.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form6.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form7.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form8.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Form9.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.Properties.Resources.resources
+G:\C#\upgradesys\upgradesys\obj\x86\Debug\upgradesys.csproj.GenerateResource.Cache
